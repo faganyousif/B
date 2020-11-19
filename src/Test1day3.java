@@ -4,6 +4,6 @@ public class Test1day3 {
 
 // B21 is excited
         // Fagan is excited about HTML
-
+// Seattle is on fire~
     }
 }
